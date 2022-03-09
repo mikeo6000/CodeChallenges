@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeChallenge\\CodeChallenges\\CodeChallangeFeb28\\CodeChallangeFeb28\\CodeChallangeFeb28.csproj": {}
+    "C:\\Users\\mikeo\\Desktop\\testAPi\\CodeChallengeMarch7\\CodeChallengeMarch7\\CodeChallengeMarch7.csproj": {}
   },
   "projects": {
-    "C:\\CodeChallenge\\CodeChallenges\\CodeChallangeFeb28\\CodeChallangeFeb28\\CodeChallangeFeb28.csproj": {
+    "C:\\Users\\mikeo\\Desktop\\testAPi\\CodeChallengeMarch7\\CodeChallengeMarch7\\CodeChallengeMarch7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeChallenge\\CodeChallenges\\CodeChallangeFeb28\\CodeChallangeFeb28\\CodeChallangeFeb28.csproj",
-        "projectName": "CodeChallangeFeb28",
-        "projectPath": "C:\\CodeChallenge\\CodeChallenges\\CodeChallangeFeb28\\CodeChallangeFeb28\\CodeChallangeFeb28.csproj",
+        "projectUniqueName": "C:\\Users\\mikeo\\Desktop\\testAPi\\CodeChallengeMarch7\\CodeChallengeMarch7\\CodeChallengeMarch7.csproj",
+        "projectName": "CodeChallengeMarch7",
+        "projectPath": "C:\\Users\\mikeo\\Desktop\\testAPi\\CodeChallengeMarch7\\CodeChallengeMarch7\\CodeChallengeMarch7.csproj",
         "packagesPath": "C:\\Users\\mikeo\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeChallenge\\CodeChallenges\\CodeChallangeFeb28\\CodeChallangeFeb28\\obj\\",
+        "outputPath": "C:\\Users\\mikeo\\Desktop\\testAPi\\CodeChallengeMarch7\\CodeChallengeMarch7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
